@@ -2,7 +2,5 @@
 This is for the assignment of Machine Learning class
 
 
-## This is for the assignments 
-- item 1 
-
- We will use 'python3'
+## This is for the assignments 1 ## 
+- 1. Input Data 
