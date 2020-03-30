@@ -2,5 +2,5 @@
 This is for the assignment of Machine Learning class
 
 
-## This is for the assignments 1 ## 
+## Week 2 -Assignments 2 ## 
 - (1) Input Data 
